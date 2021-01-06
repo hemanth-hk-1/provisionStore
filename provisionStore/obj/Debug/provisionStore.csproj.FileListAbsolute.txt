@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\provisionStore1\provisionStore\bin\Debug\provisionStore.dll.config
+C:\Users\hp\source\repos\provisionStore1\provisionStore\bin\Debug\provisionStore.dll
+C:\Users\hp\source\repos\provisionStore1\provisionStore\bin\Debug\provisionStore.pdb
+C:\Users\hp\source\repos\provisionStore1\provisionStore\bin\Debug\EntityFramework.dll
+C:\Users\hp\source\repos\provisionStore1\provisionStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\source\repos\provisionStore1\provisionStore\bin\Debug\EntityFramework.xml
+C:\Users\hp\source\repos\provisionStore1\provisionStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\source\repos\provisionStore1\provisionStore\obj\Debug\provisionStore.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\provisionStore1\provisionStore\obj\Debug\provisionStore.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\provisionStore1\provisionStore\obj\Debug\provisionStore.csproj.CopyComplete
+C:\Users\hp\source\repos\provisionStore1\provisionStore\obj\Debug\provisionStore.dll
+C:\Users\hp\source\repos\provisionStore1\provisionStore\obj\Debug\provisionStore.pdb
